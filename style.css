@@ -1,0 +1,31 @@
+
+        form{
+            background-color: gray}
+
+        h3{
+            text-decoration: underline;
+            color: black;
+            font-family: "Century Schoolbook L";
+            font-size: 30px
+        }
+         h1{color: darkblue;
+        text-decoration: underline;
+        text-align: center;
+        font-family: Chandas;
+        font-size: 22px}
+
+        p{font-size: 14px;
+        font-family: Dialog;
+        }
+
+        body{background-color: grey}
+        h3{font-size: 16px}
+        h4{
+            color:#44ff00;
+        }
+        .random{
+            color: blue;
+        }
+        #testing{
+            font-family: AnjaliOldLipi;
+        }
